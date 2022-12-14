@@ -10,7 +10,8 @@ This the web interface of the 'To Do List' web application, having the 3 default
 This isthe custom path/new list by the User.
 
 ![to_do_3_terminal](https://user-images.githubusercontent.com/108878412/207618523-81361137-4953-4901-ab37-3b365ed6fffb.PNG)
-Terminal view.
+
+This is the Terminal view of MongoDB Shell.
 
 
 
